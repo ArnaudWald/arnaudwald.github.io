@@ -14,6 +14,7 @@ title: Home
       </div>
       <a href="#about" class="nav-link side-link js-scroll-trigger">➤ About me</a>
       <a href="#interests" class="nav-link side-link js-scroll-trigger">➤ Skills & Interests</a>
+      <a href="#experience" class="nav-link side-link js-scroll-trigger">➤ Experience</a>
       <a href="#education" class="nav-link side-link js-scroll-trigger">➤ Education</a>
 
       <hr style="width:60%; background:#02456F; margin-top: 0px; margin-bottom:10px;">
@@ -29,7 +30,7 @@ title: Home
 
     <div class="row" id="about">
       <div class="col-md-10">
-      <h2 class="page-title">Welcome to  my webpage</h2>
+      <h2 class="page-title">Welcome to  my webpage !</h2>
       <h3 class="page-subtitle text-muted">A few words about me.</h3>
       <hr style="width:40%; background:#02456F;">
       </div>
@@ -37,25 +38,13 @@ title: Home
 
     <div class="row" style="margin-top:30px;">
       <div class="col-md-8 offset-md-1">
-        PhD student in Machine Learning,
-        <br>applied to neurosciences.
+        Machine Learning engineer
         <br>&bull;<br>
-        Brain & Spine Institute - Centre of Applied Maths of Ecole Polytechnique.
+        Currently working at Scaleway
         <br>&bull;<br>
         Always involved in new projects.
       </div>
     </div>
-
-
-    <div class="row" style="margin-top:5%;">
-      <div class="col-md-2 offset-md-3">
-        <a class="btn btn-primary" href="/research" role="button">Research</a>
-      </div>
-      <div class="col-md-2 ">
-        <a class="btn btn-primary" href="/projects" role="button">Projects</a>
-      </div>
-    </div>
-
 
 
     <div class="row" style="margin-top:10%;">
@@ -64,25 +53,19 @@ title: Home
         <hr style="width:30%; background:#02456F;">
         <ul class="list-inline social-buttons">
           <li class="list-inline-item">
-            <a href='mailto:igor[dot]koval[at]icm-institute[dot]org'>
+            <a href='mailto:arnaudwald[at]gmail[dot]com'>
               <i class="fa fa-envelope "></i>
             </a>
           </li>
 
           <li class="list-inline-item">
-            <a href='https://www.linkedin.com/in/igor-koval-98767360/'>
+            <a href='https://www.linkedin.com/in/arnaudwald'>
               <i class="fa fa-linkedin "></i>
             </a>
           </li>
 
           <li class="list-inline-item">
-            <a href='https://scholar.google.fr/citations?user=dlgocecAAAAJ&hl=fr'>
-              <i class="fa fa-google"></i>
-            </a>
-          </li>
-
-          <li class="list-inline-item">
-            <a href='https://github.com/Symcies'>
+            <a href='https://github.com/DuanraDlaw'>
               <i class="fa fa-github"></i>
             </a>
           </li>
@@ -127,9 +110,9 @@ title: Home
   <!-- INTERESTS SECTION --->
   <div class="row" id="interests" style="margin-top:70px;">
     <div class="col-md-10">
-      <h2>Scientific Interests & Skills</h2>
+      <h2>Skills & Interests</h2>
     </div>
-    </div>
+  </div>
 
   {% for s in site.data.about.skills %}
     <div class="row text-center interests-row">
@@ -145,6 +128,36 @@ title: Home
       </div>
     </div>
   {% endfor %}
+
+
+  <!-- EDUCATION SECTION -->
+  <div class="row" id="experience" style="margin-top:70px;">
+    <div class="col-md-10">
+      <h2>Experience</h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-10">
+      {% for exp in site.data.experience %}
+        <div class="row education-row">
+          <div class="col-md-2 education-img">
+            <img class="img-fluid" src={{exp.img}} alt="{{exp.title}}">
+          </div>
+          <div class="col-md-10">
+            <div class="about-text">
+              <div class="education-title">{{exp.title}}</div>
+              <div class="education-period">{{exp.period}}</div>
+              <div>{{exp.description}}</div>
+              {% for tag in exp.tags %}
+                <span class="education-tag">{{tag}}</span>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 
 
   <!-- EDUCATION SECTION -->
