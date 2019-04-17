@@ -4,6 +4,7 @@
     "period": "June 2018 onwards",
     "description": "Statistical learning of spatio-temporal trajectories based on longitudinal data - application to neurogedenerative diseases. <a href='https://icm-institute.org/'>ICM</a> - <a href='https://portail.polytechnique.edu/cmap/fr'>CMAP</a> - <a href='https://www.fondation-hadamard.fr/fr/edmh/presentation'>EDMH</a>" ,
     "img": "img/experience/logo_scaleway.png",
+    "location": "Paris, France",
     "tags": ["Advanced Machine Learning", "Convex optimization", "Deep Learning", "Statistical Learning", "Compressed Sensing", "Hackathons"]
   },
   {
@@ -11,6 +12,7 @@
     "period": "Nov 2017 - Apr 2018",
     "description": "Theoretical courses in maths, various machine-learning projects and hackathons-like sessions. Ecole Polytechnique, Université Paris-Saclay, Télécom Paris, ENSAE. <a href='https://datascience-x-master-paris-saclay.fr/'>Website.</a>",
     "img": "img/experience/bearingpoint.gif",
+    "location": "La Défense, France",
     "tags": ["Advanced Machine Learning", "Convex optimization", "Deep Learning", "Statistical Learning", "Compressed Sensing", "Hackathons"]
   },
   {
@@ -18,6 +20,7 @@
     "period": "Mar 2017 - Sept 2017",
     "description": "",
     "img": "img/experience/jtekt.png",
+    "location": "Nagoya, Japan",
     "tags": ["Probabilities & Statistics", "Analysis", "Operational research", "Scientific computing", "Programming C++", "Design Thinking"]
   },
   {
@@ -25,6 +28,7 @@
     "period": "2013 (5 months)",
     "description": "Four months internship in a Civil Engineering Laboratory. Published paper : <a href='https://books.google.fr/books?hl=fr&lr=&id=K2HLBQAAQBAJ&oi=fnd&pg=PA109&dq=i+koval+frost+numerical+packing&ots=B3ZykBm7LM&sig=sxUWmWfedgPAKUQJxmxeXBeGtdI#v=onepage&q&f=false'>Comparison between geometrical and dynamic particle packing</a> - presented at a Symposium in London<p>",
     "img": "img/experience/esmart.png",
+    "location": "Lausanne, Switzerland",
     "tags": ["Civil Engineering", "Numerical modeling", "Simulations"]
   }
 ]

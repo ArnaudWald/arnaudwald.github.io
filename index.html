@@ -12,7 +12,7 @@ title: Home
       <div>
         <img class="profile" src="img/profil.jpg" alt="profile picture">
       </div>
-      <a href="#about" class="nav-link side-link js-scroll-trigger">➤ About me</a>
+      <a href="#me" class="nav-link side-link js-scroll-trigger">➤ About me</a>
       <a href="#interests" class="nav-link side-link js-scroll-trigger">➤ Skills & Interests</a>
       <a href="#experience" class="nav-link side-link js-scroll-trigger">➤ Experience</a>
       <a href="#education" class="nav-link side-link js-scroll-trigger">➤ Education</a>
@@ -54,19 +54,19 @@ title: Home
         <ul class="list-inline social-buttons">
           <li class="list-inline-item">
             <a href='mailto:arnaudwald[at]gmail[dot]com'>
-              <i class="fa fa-envelope "></i>
+              <i class="fas fa-envelope"></i>
             </a>
           </li>
 
           <li class="list-inline-item">
             <a href='https://www.linkedin.com/in/arnaudwald'>
-              <i class="fa fa-linkedin "></i>
+              <i class="fab fa-linkedin-in"></i>
             </a>
           </li>
 
           <li class="list-inline-item">
             <a href='https://github.com/DuanraDlaw'>
-              <i class="fa fa-github"></i>
+              <i class="fab fa-github"></i>
             </a>
           </li>
 
@@ -147,7 +147,8 @@ title: Home
           <div class="col-md-10">
             <div class="about-text">
               <div class="education-title">{{exp.title}}</div>
-              <div class="education-period">{{exp.period}}</div>
+              <div class="education-period"><i class="fas fa-calendar"></i> {{exp.period}}</div>
+              <div class="education-location"><i class="fas fa-map-marker"></i> {{exp.location}}</div>
               <div>{{exp.description}}</div>
               {% for tag in exp.tags %}
                 <span class="education-tag">{{tag}}</span>
@@ -177,7 +178,8 @@ title: Home
           <div class="col-md-10">
             <div class="about-text">
               <div class="education-title">{{edu.title}}</div>
-              <div class="education-period">{{edu.period}}</div>
+              <div class="education-period"><i class="fas fa-calendar"></i> {{edu.period}}</div>
+              <div class="education-location"><i class="fas fa-map-marker"></i> {{edu.location}}</div>
               <div>{{edu.description}}</div>
               {% for tag in edu.tags %}
                 <span class="education-tag">{{tag}}</span>

@@ -4,6 +4,7 @@
     "period": "2015 - 2017",
     "description": "Top engineering school (Grande Ecole) with a strong mathematical track. <a href='http://www.enpc.fr/'>Website.</a>",
     "img": "img/education/epfl.png",
+    "location": "Lausanne, Switzerland",
     "tags": ["Probabilities & Statistics", "Analysis", "Operational research", "Scientific computing", "Programming C++", "Design Thinking"]
   },
   {
@@ -11,6 +12,7 @@
     "period": "2014 - 2015",
     "description": "Applied Economics bachelor - Track for  Grand-Ecole students",
     "img": "img/education/centralesupelec.png",
+    "location": "Paris, France",
     "tags": ["Macroeconomics", "Microeconomics", "Econometrics"]
   }
 ]
