@@ -1,29 +1,27 @@
 [{
-	"id": "candidats",
-	"title": "Les Candidats 2017",
-	"subtitle": "Candidates comparison for the French political elections",
-	"img": "img/projects/candidats2017.jpg",
+	"id": "qds",
+	"title": "QDS Generator",
+	"subtitle": "Generating French Rap with AI",
+	"img": "img/projects/qds.jpg",
 	"description": {
 		"Description": [
-			"Website about the french political elections in 2017. Based on user-defined priorities (environment, economy,  education, ...), it provides a personalized survey to find one's most appropriage candidate",
-			"It also includes a comparison of candidates opinions on a broad range of topics, as well as the candidates biographies.",
-			"The website was visited by more than ... unique users during the last two weeks of the election first round. Except from the technical part that was done on my own, the content and the information were gathered with <a href=''>Louise Hombert</a>."
+			"Creating a brand new rapper into the French rap scene",
+			"",
+			"...With AI !"
 		],
 		"Technical details": [
-			"The front-end has been designed thanks to Bootstrap to make the website responsive (...% of the user ), and, thanks to <a href='https://surveyjs.io/Overview/Library/'>SurveyJS</a> library that provide open source survey library. ",
-			"The back-end has been built with nodeJS, communicating with a MongoDB database hosted on <a href='https://mlab.com/'>mlab</a>.",
-			"The final project is open-source, hosted <a href='https://github.com/Symcies/LesCandidats'> here on Github</a>. No information were collected about the user - except for the website activity, thanks to Google Analytics."
+			"Inspired by <a href='http://encore.ai'>encore.ai</a>",
+			"Using python for scraping the API of <a href='http://genius.com'>genius.com</a>",
+			"",
+			"Photo by <a style='background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px' href='https://unsplash.com/@sorenastrup664?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge' target='_blank' rel='noopener noreferrer' title='Download free do whatever you want high-resolution photos from Søren Astrup Jørgensen'><span style='display:inline-block;padding:2px 3px'><svg xmlns='http://www.w3.org/2000/svg' style='height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white' viewBox='0 0 32 32'><title>unsplash-logo</title><path d='M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z'></path></svg></span><span style='display:inline-block;padding:2px 3px'>Søren Astrup Jørgensen</span></a> on Unsplash"
 		]
 	},
-	"link": "https://lescandidats2017.fr",
-	"date": "First semester of 2017",
+	"link": "https://github.com/DklRaf/QDS-Generator",
+	"date": "2019",
 	"tags": [
-		"Politics",
-		"Personalized survey",
-		"JavaScript",
-		"Node & Express",
-		"Bootstrap",
-		"SurveyJS",
-		"MongoDB"
+		"AI",
+		"Rap",
+		"NLP",
+		"Music"
 	]
 }]
