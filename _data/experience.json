@@ -1,34 +1,34 @@
 [
   {
     "title": "Machine Learning Engineer - Scaleway",
-    "period": "June 2018 onwards",
-    "description": "Statistical learning of spatio-temporal trajectories based on longitudinal data - application to neurogedenerative diseases. <a href='https://icm-institute.org/'>ICM</a> - <a href='https://portail.polytechnique.edu/cmap/fr'>CMAP</a> - <a href='https://www.fondation-hadamard.fr/fr/edmh/presentation'>EDMH</a>" ,
+    "period": "June 2018 - present",
+    "description": "Part of the AI team. Launched GPU instances and working on internal machine learning R&D projects. <a href='https://www.scaleway.com'>Website</a>." ,
     "img": "img/experience/logo_scaleway.png",
     "location": "Paris, France",
-    "tags": ["Advanced Machine Learning", "Convex optimization", "Deep Learning", "Statistical Learning", "Compressed Sensing", "Hackathons"]
+    "tags": ["Machine Learning", "Deep Learning", "Cloud Computing", "Kubernetes", "GPU", "Inference", "Training"]
   },
   {
     "title": "Data Analyst - Bearingpoint",
     "period": "Nov 2017 - Apr 2018",
-    "description": "Theoretical courses in maths, various machine-learning projects and hackathons-like sessions. Ecole Polytechnique, Université Paris-Saclay, Télécom Paris, ENSAE. <a href='https://datascience-x-master-paris-saclay.fr/'>Website.</a>",
+    "description": "Helped customers choose and integrate data gathering and data-oriented applications. <a href='http://www.bearingpoint.com'>Website</a>.",
     "img": "img/experience/bearingpoint.gif",
     "location": "La Défense, France",
-    "tags": ["Advanced Machine Learning", "Convex optimization", "Deep Learning", "Statistical Learning", "Compressed Sensing", "Hackathons"]
+    "tags": ["Data Science", "Data Visualization", "Consulting", "Scrum"]
   },
   {
     "title": "Internship - JTEKT (Japan)",
     "period": "Mar 2017 - Sept 2017",
-    "description": "",
+    "description": "Recognizing failure of machine-tools by using sound data. <a href='http://www.jtekt.co.jp'>Website</a>.",
     "img": "img/experience/jtekt.png",
     "location": "Nagoya, Japan",
-    "tags": ["Probabilities & Statistics", "Analysis", "Operational research", "Scientific computing", "Programming C++", "Design Thinking"]
+    "tags": ["Machine Learning", "Research", "Scientific computing"]
   },
   {
     "title": "Test engineering - eSMART Technologies",
-    "period": "2013 (5 months)",
-    "description": "Four months internship in a Civil Engineering Laboratory. Published paper : <a href='https://books.google.fr/books?hl=fr&lr=&id=K2HLBQAAQBAJ&oi=fnd&pg=PA109&dq=i+koval+frost+numerical+packing&ots=B3ZykBm7LM&sig=sxUWmWfedgPAKUQJxmxeXBeGtdI#v=onepage&q&f=false'>Comparison between geometrical and dynamic particle packing</a> - presented at a Symposium in London<p>",
+    "period": "Aug 2016 - Dec 2016",
+    "description": "Design and build of an automated test-bench for out-of-factory electrical appliances. <a href='http://www.myesmart.com'>Website</a>.",
     "img": "img/experience/esmart.png",
     "location": "Lausanne, Switzerland",
-    "tags": ["Civil Engineering", "Numerical modeling", "Simulations"]
+    "tags": ["Automation", "Raspberry Pi", "Python", "Test"]
   }
 ]

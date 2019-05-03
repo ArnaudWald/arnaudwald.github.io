@@ -2,17 +2,17 @@
   {
     "title": "Master of Science in Microengineering - École Polytechnique Fédérale de Lausanne (EPFL)",
     "period": "2015 - 2017",
-    "description": "Top engineering school (Grande Ecole) with a strong mathematical track. <a href='http://www.enpc.fr/'>Website.</a>",
+    "description": "Top Swiss engineering school, joint Masters with Centrale-Supélec. <a href='http://www.epfl.ch/'>Website</a>.",
     "img": "img/education/epfl.png",
     "location": "Lausanne, Switzerland",
-    "tags": ["Probabilities & Statistics", "Analysis", "Operational research", "Scientific computing", "Programming C++", "Design Thinking"]
+    "tags": ["Robotics", "Optimization", "Machine Learning", "Control & Automation", "Microelectronics"]
   },
   {
     "title": "Master of Science in Engineering - Centrale-Supélec",
-    "period": "2014 - 2015",
-    "description": "Applied Economics bachelor - Track for  Grand-Ecole students",
+    "period": "2013 - 2015",
+    "description": "Top French engineering school (Grande Ecole) with a strong mathematical track. <a href='http://www.centralesupelec.fr/'>Website</a>.",
     "img": "img/education/centralesupelec.png",
     "location": "Paris, France",
-    "tags": ["Macroeconomics", "Microeconomics", "Econometrics"]
+    "tags": ["Probabilities & Statistics", "Analysis", "Signal Processing", "Electronics", "Computer Science", "Networks", "Management"]
   }
 ]
