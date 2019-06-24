@@ -24,4 +24,47 @@
 		"NLP",
 		"Music"
 	]
+}, {
+	"id": "scaleday",
+	"title": "ScaleDay",
+	"subtitle": "Fraud Detection with Machine Learning",
+	"img": "img/projects/scaleday.jpg",
+	"description": {
+		"Description": [
+			"Durening the 2019 edition of the Scaleday, celebrating Scaleway's 20-year anniversary, I had the opportunity to present my work. I designed and built a machine learning pipeline to prevent credit card fraud on Scaleway"
+		],
+		"Technical details": [
+			"The presentation is hosted on <a href='https://fr.slideshare.net/scaleway/fraud-detection-with-machine-learning'>Scaleway's slideshare account</a>."
+		]
+	},
+	"link": "https://fr.slideshare.net/scaleway/fraud-detection-with-machine-learning",
+	"date": "2019",
+	"tags": [
+		"AI",
+		"Fraud Detection",
+		"Speaking"
+	]
+}, {
+	"id": "meetup",
+	"title": "Artificial Intelligence Meetup",
+	"subtitle": "Open-Source Tools for Machine Learning on Kubernetes",
+	"img": "img/projects/meetup.png",
+	"description": {
+		"Description": [
+			"Kubernetes has become the go-to tool to deploy, scale & manage distributed apps.",
+			"As Machine Learning find its way into more apps, it’s imperative to take advantage of Kubernetes infrastructure to develop more distributed and scalable models.",
+			"In this talk, we will show you some open source frameworks that you can use to create a full Machine Learning pipeline, from training to inference."
+		],
+		"Technical details": [
+			"See the Meetup description on the <a href='https://www.meetup.com/fr-FR/Artificial-Intelligence-Meetup-Paris/events/262030697/'>Meetup website</a>."
+		]
+	},
+	"link": "https://www.meetup.com/fr-FR/Artificial-Intelligence-Meetup-Paris/events/262030697/",
+	"date": "2019",
+	"tags": [
+		"AI",
+		"Meetup",
+		"Open-source",
+		"Kubernetes"
+	]
 }]
