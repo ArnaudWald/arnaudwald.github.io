@@ -7,7 +7,8 @@
 		"Description": [
 			"Creating a brand new rapper into the French rap scene",
 			"",
-			"...With AI !"
+			"...With AI !",
+			"See the GitHub repo <a href='https://github.com/DklRaf/QDS-Generator'>here</a>."
 		],
 		"Technical details": [
 			"Inspired by <a href='http://encore.ai'>encore.ai</a>",
@@ -31,9 +32,11 @@
 	"img": "img/projects/scaleday.jpg",
 	"description": {
 		"Description": [
-			"Durening the 2019 edition of the Scaleday, celebrating Scaleway's 20-year anniversary, I had the opportunity to present my work. I designed and built a machine learning pipeline to prevent credit card fraud on Scaleway"
+			"During the 2019 edition of the Scaleday, celebrating Scaleway's 20-year anniversary, I had the opportunity to present my work.",
+			"I designed and built a machine learning pipeline to prevent credit card fraud on Scaleway, an prevent fraudsters to create accounts on the platform and steal resources."
 		],
 		"Technical details": [
+			"After a lot of feature engineering, I used <a href='http://www.catboost.ai'>CatBoost</a>'s gradient-boosting algorithm to make the final predictions. ",
 			"The presentation is hosted on <a href='https://fr.slideshare.net/scaleway/fraud-detection-with-machine-learning'>Scaleway's slideshare account</a>."
 		]
 	},
