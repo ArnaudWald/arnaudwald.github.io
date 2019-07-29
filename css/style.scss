@@ -53,6 +53,14 @@ h2 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.darkmode--activated h1, .darkmode--activated h2, .darkmode--activated h3, .darkmode--activated h4, .darkmode--activated h5, .darkmode--activated h6 {
+  color: #abb1bf;
+}
+
+.darkmode--activated p, .darkmode--activated ul, .darkmode--activated li {
+  color: #abb1bf;
+}
+
 .page-subtitle {
   margin-bottom: 10px !important;
   font-size: 16px;
@@ -63,6 +71,21 @@ h2 {
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+/**************/
+/*   VARIOUS  */
+/**************/
+
+hr {
+  background: #5cadf1;
+}
+
+.darkmode--activated hr {
+  background: #d29a61;
+}
+
+.darkmode--activated .fa {
+  color: #abb1bf;
+}
 
 
 /**************/
@@ -75,16 +98,23 @@ h2 {
   height: auto;
   width: 60%;
   border-radius: 50%;
-  border: 6px solid #02456f;
+  border: 6px solid #5cadf1;
+}
+
+.darkmode--activated .profile {
+  border: 6px solid #d29a61
 }
 
 .side-link{
   font-size: 20px;
   padding-left: 25%;
   padding-bottom: 4px;
-  color: #02456F;
+  color: #5cadf1;
 }
 
+.darkmode--activated .side-link {
+  color: #d29a61
+}
 
 .about-link{
   color: inherit;
@@ -110,7 +140,11 @@ h2 {
 
 .navbar {
   padding: 10px 140px;
-  background-color: #02456F;
+  background-color: #5cadf1;
+}
+
+.darkmode--activated .navbar {
+  background-color: #d29a61;
 }
 
 @media (max-width: 640px) {
@@ -121,6 +155,10 @@ h2 {
 
 .navbar-brand {
   font-size: 28px;
+}
+
+.darkmode--activated .navbar-brand, .darkmode--activated .navbar-brand:hover {
+  color: #000;
 }
 
 .main-nav-link{
@@ -146,6 +184,10 @@ h2 {
   background-size: 80% 3px, auto;
 }
 
+.darkmode--activated .main-nav-link {
+  color: #000 !important;
+  background-image: linear-gradient(black, black);
+}
 
 /**************/
 /*    ABOUT   */
@@ -158,14 +200,25 @@ h2 {
     background: black;
 }
 
+.darkmode--activated .btn-circle:focus, .darkmode--activated .btn-circle:hover {
+  color: #000;
+  background: white;
+}
+
 .btn-primary {
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 18px;
   margin: 10px 15px;
   color: #fff;
-  background-color: #02456f;
-  border-color: #02456f;
+  background-color: #5cadf1;
+  border-color: #5cadf1;
+}
+
+.darkmode--activated .btn-primary{
+  color: #000;
+  background-color: #d29a61;
+  border-color: #d29a61;
 }
 
 .btn-circle {
@@ -181,6 +234,11 @@ h2 {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
+}
+
+.darkmode--activated .btn-circle {
+  color: white;
+  border: 2px solid white;
 }
 
 .education-row {
@@ -209,8 +267,13 @@ h2 {
   text-align: justify;
   padding: 0px 15px;
   border-left-style: solid;
-  border-left-color: #02456f;
+  border-left-color: #5cadf1;
   border-left-width: medium;
+}
+
+.darkmode--activated .about-text{
+  border-left-color: #d29a61;
+  color: #abb1bf;
 }
 
 .education-title {
@@ -238,10 +301,14 @@ h2 {
   border-radius: 4px;
   font-size: 12px;
   font-weight: 400;
-  background-color: #02456f;
+  background-color: #5cadf1;
   color: #FFF
 }
 
+.darkmode--activated .education-tag {
+  color: #000;
+  background-color: #d29a61;
+}
 
 /**************/
 /*  RESEARCH  */
@@ -297,7 +364,7 @@ h2 {
   border-radius: 4px;
   font-size: 12px;
   font-weight: 400;
-  background-color: #02456f;
+  background-color: #5cadf1;
   color: #FFF
 }
 
@@ -416,8 +483,13 @@ h2 {
   padding: 8px 14px;
   border-radius: 4px;
   font-size: 15px;
-  background-color: #02456f;
+  background-color: #5cadf1;
   color: #FFF;
+}
+
+.darkmode--activated .interests-tag {
+  background-color: #d29a61;
+  color: #000;
 }
 
 /**************/
