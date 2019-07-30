@@ -4,13 +4,13 @@
 	"subtitle": "Generating French Rap with AI",
 	"img": "img/projects/qds.jpg",
 	"description": {
-		"Description": [
+		"<h4>Description</h4>": [
 			"<p>Creating a brand new rapper into the French rap scene</p>",
 			"<p></p>",
 			"<p>...With AI !</p>",
 			"<p>See the GitHub repo <a href='https://github.com/DklRaf/QDS-Generator'>here</a>.</p>"
 		],
-		"Technical details": [
+		"<h4>Technical details</h4>": [
 			"<p>Inspired by <a href='http://encore.ai'>encore.ai</a><br/>
 			Using python for scraping the API of <a href='http://genius.com'>genius.com</a></p>",
 			"<p>Photo by <a style='background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px' href='https://unsplash.com/@sorenastrup664?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge' target='_blank' rel='noopener noreferrer' title='Download free do whatever you want high-resolution photos from Søren Astrup Jørgensen'><span style='display:inline-block;padding:2px 3px'><svg xmlns='http://www.w3.org/2000/svg' style='height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white' viewBox='0 0 32 32'><title>unsplash-logo</title><path d='M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z'></path></svg></span><span style='display:inline-block;padding:2px 3px'>Søren Astrup Jørgensen</span></a> on Unsplash</p>"
@@ -30,11 +30,11 @@
 	"subtitle": "Fraud Detection with Machine Learning",
 	"img": "img/projects/scaleday.jpg",
 	"description": {
-		"Description": [
+		"<h4>Description</h4>": [
 			"<p>During the 2019 edition of the Scaleday, celebrating Scaleway's 20-year anniversary, I had the opportunity to present my work.</p>",
 			"<p>I designed and built a machine learning pipeline to prevent credit card fraud on Scaleway, an prevent fraudsters to create accounts on the platform and steal resources.</p>"
 		],
-		"Technical details": [
+		"<h4>Technical details</h4>": [
 			"<p>After a lot of feature engineering, I used <a href='http://www.catboost.ai'>CatBoost</a>'s gradient-boosting algorithm to make the final predictions.</p>",
 			"<p>The presentation is hosted on <a href='https://fr.slideshare.net/scaleway/fraud-detection-with-machine-learning'>Scaleway's slideshare account</a>.</p>"
 		]
@@ -52,12 +52,12 @@
 	"subtitle": "Open-Source Tools for Machine Learning on Kubernetes",
 	"img": "img/projects/meetup.png",
 	"description": {
-		"Description": [
+		"<h4>Description</h4>": [
 			"<p>Kubernetes has become the go-to tool to deploy, scale & manage distributed apps.</p>",
 			"<p>As Machine Learning find its way into more apps, it’s imperative to take advantage of Kubernetes infrastructure to develop more distributed and scalable models.</p>",
 			"<p>In this talk, we will show you some open source frameworks that you can use to create a full Machine Learning pipeline, from training to inference.</p>"
 		],
-		"Technical details": [
+		"<h4>Technical details</h4>": [
 			"<p>See the Meetup description on the <a href='https://www.meetup.com/fr-FR/Artificial-Intelligence-Meetup-Paris/events/262030697/'>Meetup website</a>.</p>"
 		]
 	},
