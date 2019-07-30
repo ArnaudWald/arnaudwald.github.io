@@ -83,7 +83,31 @@ hr {
   background: #d29a61;
 }
 
-.darkmode--activated .fa {
+/*.darkmode--activated .fa {
+  color: #abb1bf;
+}
+*/
+
+.darkmode--activated ul.social-buttons li a {
+  background-color: #abb1bf;
+  color: black;
+}
+
+.darkmode--activated section#contact {
+  background-color: #544E40;
+}
+
+
+.contact-msg {
+  color: white;
+}
+
+
+.darkmode--activated .contact-msg {
+  color: black;
+}
+
+.darkmode--activated .skill-icon {
   color: #abb1bf;
 }
 
@@ -201,8 +225,8 @@ hr {
 }
 
 .darkmode--activated .btn-circle:focus, .darkmode--activated .btn-circle:hover {
-  color: #000;
-  background: white;
+  color: black !important;
+  background: #abb1bf;
 }
 
 .btn-primary {
@@ -237,8 +261,8 @@ hr {
 }
 
 .darkmode--activated .btn-circle {
-  color: white;
-  border: 2px solid white;
+  color: #abb1bf;
+  border: 2px solid #abb1bf;
 }
 
 .education-row {
