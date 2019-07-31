@@ -2,7 +2,7 @@
   {
     "title": "Machine Learning Engineer - Scaleway",
     "period": "June 2018 - present",
-    "description": "Part of the AI team. Launched GPU instances and working on internal machine learning R&D projects. <a href='https://www.scaleway.com'>Website</a>." ,
+    "description": "<p>Part of the AI team. Launched GPU instances and working on internal machine learning R&D projects. <a href='https://www.scaleway.com'>Website</a>.</p>" ,
     "img": "img/experience/logo_scaleway.png",
     "location": "Paris, France",
     "tags": ["Machine Learning", "Deep Learning", "Cloud Computing", "Kubernetes", "GPU", "Inference", "Training"]
@@ -10,7 +10,7 @@
   {
     "title": "Data Analyst - Bearingpoint",
     "period": "Nov 2017 - Apr 2018",
-    "description": "Helped customers choose and integrate data gathering and data-oriented applications. <a href='http://www.bearingpoint.com'>Website</a>.",
+    "description": "<p>Helped customers choose and integrate data gathering and data-oriented applications. <a href='http://www.bearingpoint.com'>Website</a>.</p>",
     "img": "img/experience/bearingpoint.gif",
     "location": "La Défense, France",
     "tags": ["Data Science", "Data Visualization", "Consulting", "Scrum"]
@@ -18,7 +18,7 @@
   {
     "title": "Internship - JTEKT (Japan)",
     "period": "Mar 2017 - Sept 2017",
-    "description": "Recognizing failure of machine-tools by using sound data. <a href='http://www.jtekt.co.jp'>Website</a>.",
+    "description": "<p>Recognizing failure of machine-tools by using sound data. <a href='http://www.jtekt.co.jp'>Website</a>.</p>",
     "img": "img/experience/jtekt.png",
     "location": "Nagoya, Japan",
     "tags": ["Machine Learning", "Research", "Scientific computing"]
@@ -26,7 +26,7 @@
   {
     "title": "Test engineering - eSMART Technologies",
     "period": "Aug 2016 - Dec 2016",
-    "description": "Design and build of an automated test-bench for out-of-factory electrical appliances. <a href='http://www.myesmart.com'>Website</a>.",
+    "description": "<p>Design and build of an automated test-bench for out-of-factory electrical appliances. <a href='http://www.myesmart.com'>Website</a>.</p>",
     "img": "img/experience/esmart.png",
     "location": "Lausanne, Switzerland",
     "tags": ["Automation", "Raspberry Pi", "Python", "Test"]

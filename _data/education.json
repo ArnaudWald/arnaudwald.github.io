@@ -2,7 +2,7 @@
   {
     "title": "Master of Science in Microengineering - École Polytechnique Fédérale de Lausanne (EPFL)",
     "period": "2015 - 2017",
-    "description": "Top Swiss engineering school, joint Masters with Centrale-Supélec. <a href='http://www.epfl.ch/'>Website</a>.",
+    "description": "<p>Top Swiss engineering school, joint Masters with Centrale-Supélec. <a href='http://www.epfl.ch/'>Website</a>.</p>",
     "img": "img/education/epfl.png",
     "location": "Lausanne, Switzerland",
     "tags": ["Robotics", "Optimization", "Machine Learning", "Control & Automation", "Microelectronics"]
@@ -10,7 +10,7 @@
   {
     "title": "Master of Science in Engineering - Centrale-Supélec",
     "period": "2013 - 2015",
-    "description": "Top French engineering school (Grande Ecole) with a strong mathematical track. <a href='http://www.centralesupelec.fr/'>Website</a>.",
+    "description": "<p>Top French engineering school (Grande Ecole) with a strong mathematical track. <a href='http://www.centralesupelec.fr/'>Website</a>.</p>",
     "img": "img/education/centralesupelec.png",
     "location": "Paris, France",
     "tags": ["Probabilities & Statistics", "Analysis", "Signal Processing", "Electronics", "Computer Science", "Networks", "Management"]
