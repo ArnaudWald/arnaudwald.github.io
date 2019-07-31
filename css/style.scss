@@ -54,7 +54,7 @@ h2 {
 }
 
 .darkmode--activated h1, .darkmode--activated h2, .darkmode--activated h3, .darkmode--activated h4, .darkmode--activated h5, .darkmode--activated h6 {
-  color: #abb1bf;
+  color: #e4ecff;
 }
 
 .darkmode--activated p, .darkmode--activated ul, .darkmode--activated li {
@@ -84,7 +84,7 @@ hr {
 }
 
 /*.darkmode--activated .fa {
-  color: #abb1bf;
+  color: #e4ecff;
 }
 */
 
@@ -120,7 +120,7 @@ hr {
 }
 
 .darkmode--activated .close-modal {
-  background-color: #abb1bf;
+  background-color: #e4ecff;
 }
 
 
@@ -158,6 +158,10 @@ hr {
 
 .about-link .fa {
   margin-right:10px;
+}
+
+.darkmode--activated .about-link i {
+  color: #e4ecff;
 }
 
 .sticky-side-list {
@@ -290,6 +294,14 @@ hr {
 .education-img img{
   max-height:120px;
   max-width: 100%;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.darkmode--activated .education-img img{
+  background-color: #e4ecff;
+  border-radius: 20px;
+  padding: 5px;
 }
 
 @media (max-width: 640px) {
@@ -326,6 +338,13 @@ hr {
   color: #b4b4b4;
 }
 
+.darkmode--activated .education-period, .darkmode--activated .education-location {
+  color: #abb1bf;
+}
+
+.darkmode--activated .education-period i, .darkmode--activated .education-location i {
+  color: #e4ecff;
+}
 
 .education-tag {
   display: inline-block;
