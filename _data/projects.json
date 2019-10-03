@@ -79,8 +79,9 @@
 			"<p>RAPIDS makes it possible to have end-to-end data science pipelines run entirely on GPU architecture. It capitalizes on the parallelization capabilities of GPUs to accelerate data preprocessing pipelines, with a pandas-like dataframe syntax. GPU-optimized versions of scikit-learn algorithms are available, and RAPIDS also integrates with major deep learning frameworks. This talk will present RAPIDS and its capabilities, and how to integrate it in your pipelines.</p>"
 		],
 		"<h4>Technical details</h4>": [
-			"<p>More info about the PyData organization and what they do: <a href='https://pydata.org/'>pydata.org</a>.",
-			"<p>See the Meetup description on <a href='https://www.meetup.com/fr-FR/PyData-Paris/events/263673958/'>meetup.com</a>.</p>"
+			"<p>More info about the PyData organization and what they do: <a href='https://pydata.org/'>pydata.org</a>.</p>",
+			"<p>See the Meetup description on <a href='https://www.meetup.com/fr-FR/PyData-Paris/events/263673958/'>meetup.com</a>.</p>",
+			"<p>The notebooks I made for benchmarking RAPIDS for the Meetup are on <a href='https://github.com/ArnaudWald/rapids-meetup-pydata'>my personal GitHub</a>.</p>"
 		]
 	},
 	"link": "https://www.meetup.com/fr-FR/Artificial-Intelligence-Meetup-Paris/events/262030697/",
