@@ -70,17 +70,18 @@
 		"Kubernetes"
 	]
 }, {
-	"id": "meetup-pydata",
-	"title": "PyData Paris Meetup",
-	"subtitle": "RAPIDS.ai - Leveraging GPUs for accelerated data science & data analytics",
-	"img": "img/projects/pydata.png",
+	"id": "meetup-rapids",
+	"title": "Talk - RAPIDS.ai",
+	"subtitle": "Leveraging GPUs for accelerated data science & data analytics",
+	"img": "img/projects/rapids.png",
 	"description": {
 		"<h4>Description</h4>": [
-			"<p>RAPIDS makes it possible to have end-to-end data science pipelines run entirely on GPU architecture. It capitalizes on the parallelization capabilities of GPUs to accelerate data preprocessing pipelines, with a pandas-like dataframe syntax. GPU-optimized versions of scikit-learn algorithms are available, and RAPIDS also integrates with major deep learning frameworks. This talk will present RAPIDS and its capabilities, and how to integrate it in your pipelines.</p>"
+			"<p>RAPIDS makes it possible to have end-to-end data science pipelines run entirely on GPU architecture. It capitalizes on the parallelization capabilities of GPUs to accelerate data preprocessing pipelines, with a pandas-like dataframe syntax. GPU-optimized versions of scikit-learn algorithms are available, and RAPIDS also integrates with major deep learning frameworks. This talk will present RAPIDS and its capabilities, and how to integrate it in your pipelines.</p>",
 		],
-		"<h4>Technical details</h4>": [
-			"<p>More info about the PyData organization and what they do: <a href='https://pydata.org/'>pydata.org</a>.</p>",
-			"<p>See the Meetup description on <a href='https://www.meetup.com/fr-FR/PyData-Paris/events/263673958/'>meetup.com</a>.</p>",
+		"<h4>More info</h4>": [
+			"<p>I have done this talk at two meetups, in Paris:</p>",
+			"<p>- PyData Paris Meetup: <a href='https://www.meetup.com/fr-FR/PyData-Paris/events/263673958/'>PyData Paris - October 3rd Meetup</a>.<br />More info about the PyData organization and what they do: <a href='https://pydata.org/'>pydata.org</a>.</p>",
+			"<p>- Paris Machine Learning Applications Meetup: <a href='https://www.meetup.com/fr-FR/Paris-Machine-learning-applications-group/events/ffzcjryzqbpb/'>S7 E2, Symbolic maths/GAN/Transportation/Retail/Rapids.ai</a>.<br /> More info about the organizer, Igor Carron: <a href='https://nuit-blanche.blogspot.com/'>nuit-blanche blog</a>.</p>",
 			"<p>The notebooks I made for benchmarking RAPIDS for the Meetup are on <a href='https://github.com/ArnaudWald/rapids-meetup-pydata'>my personal GitHub</a>.</p>"
 		]
 	},
@@ -90,6 +91,6 @@
 		"AI",
 		"Meetup",
 		"Open-source",
-		"Kubernetes"
+		"GPU"
 	]
 }]
