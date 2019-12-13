@@ -26,8 +26,8 @@
 	]
 }, {
 	"id": "scaleday",
-	"title": "ScaleDay",
-	"subtitle": "Fraud Detection with Machine Learning",
+	"title": "Fraud Detection with Machine Learning",
+	"subtitle": "ScaleDay",
 	"img": "img/projects/scaleday.jpg",
 	"description": {
 		"<h4>Description</h4>": [
@@ -48,8 +48,8 @@
 	]
 }, {
 	"id": "meetup-ai",
-	"title": "Artificial Intelligence Meetup",
-	"subtitle": "Open-Source Tools for Machine Learning on Kubernetes",
+	"title": "Open-Source Tools for Machine Learning on Kubernetes",
+	"subtitle": "Artificial Intelligence Meetup",
 	"img": "img/projects/meetup.png",
 	"description": {
 		"<h4>Description</h4>": [
