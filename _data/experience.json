@@ -1,8 +1,16 @@
 [
   {
+    "title": "Data Scientist / Intelligence Automation Engineer - Crowdstrike",
+    "period": "March 2020 - present",
+    "description": "<p>Part of the Intelligence Automation Team. In charge of exploiting all the ML possibilities offered by the team's activities. <a href='https://www.crowdstrike.com'>Website</a>.</p>" ,
+    "img": "img/experience/crowdstrike.png",
+    "location": "Remote - Everywhere",
+    "tags": ["Cybersecurity", "Data Science", "Machine Learning", "Deep Learning"]
+  },
+  {
     "title": "Machine Learning Engineer - Scaleway",
-    "period": "June 2018 - present",
-    "description": "<p>Part of the AI team. Launched GPU instances and working on internal machine learning R&D projects. <a href='https://www.scaleway.com'>Website</a>.</p>" ,
+    "period": "June 2018 - Feb 2020",
+    "description": "<p>Part of the AI team. Launched GPU instances and worked on internal machine learning R&D projects. <a href='https://www.scaleway.com'>Website</a>.</p>" ,
     "img": "img/experience/logo_scaleway.png",
     "location": "Paris, France",
     "tags": ["Machine Learning", "Deep Learning", "Cloud Computing", "Kubernetes", "GPU", "Inference", "Training"]
